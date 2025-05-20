@@ -1,31 +1,34 @@
-# -Sistema-de-gestion-de-proyectos-arquitectonicos-
-Descripción
-Este proyecto es un sistema desarrollado con Spring Boot para la empresa Alu-Arq, especializada en diseño e instalación de productos de aluminio y vidrio. El sistema permite gestionar proyectos arquitectónicos, asignar recursos (empleados y materiales) y controlar los gastos asociados.
+#🏢 Sistema de Gestión de Proyectos Alu-Arq - Backend 💻
 
-Características Principales
-Gestión completa de proyectos arquitectónicos
+#📝 Descripción
+Este proyecto es un sistema backend desarrollado con Spring Boot para la empresa Alu-Arq, especializada en diseño e instalación de productos de aluminio y vidrio. El sistema permite gestionar proyectos arquitectónicos, asignar recursos (empleados y materiales) y controlar los gastos asociados.
 
-Asignación de arquitectos encargados y trabajadores
+📊 Gestionar proyectos arquitectónicos
 
-Control de materiales utilizados en cada proyecto
+👷 Asignar recursos (empleados y materiales)
 
-Cálculo automático de viáticos según número de trabajadores
+💰 Controlar gastos y presupuestos
 
-Gestión de presupuesto de materiales
+⚙️ Automatizar procesos empresariales
 
-Roles diferenciados (Administrador y Empleado)
+#✨ Características Principales
+🏗️ Gestión completa de proyectos con fechas, estados y ubicaciones
 
-Tecnologías Utilizadas
-Lenguaje: Java 17
+👨‍💼 Asignación de arquitectos encargados y trabajadores
 
-Framework: Spring Boot
+🧮 Control de materiales utilizados en cada proyecto
 
-Persistencia: Spring Data JPA
+✈️ Cálculo automático de viáticos según número de trabajadores
 
-Base de Datos: MySQL
+💵 Gestión de presupuesto de materiales
 
-Mapeo: MapStruct
+🔐 Roles diferenciados (Administrador 👑 y Empleado 👷)
 
-Gestión de Dependencias: Maven
-
-
+#🛠️ Tecnologías Utilizadas
+Categoría	Tecnologías
+Lenguaje	Java 17 ☕
+Framework	Spring Boot 3.x 🌱
+Base Datos	MySQL 🐬
+API REST	Spring MVC 🌐
+ORM	Hibernate/JPA 🗄️
+Build	Maven 🏗️
