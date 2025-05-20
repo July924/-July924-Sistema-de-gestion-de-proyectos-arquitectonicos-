@@ -53,7 +53,7 @@ Desarrollado con tecnologías modernas para una experiencia de usuario fluida y 
 1. 🏗️ Estructura Base
 HTML5: Esqueleto semántico de todas las páginas
 
-CSS3: Estilos personalizados complementarios
+2.CSS3: Estilos personalizados complementarios
 
 3. 🎨 Sistemas de Diseño
 Tecnología	Ventaja	Uso en el Proyecto
