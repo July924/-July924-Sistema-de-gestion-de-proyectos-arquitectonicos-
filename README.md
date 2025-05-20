@@ -1,6 +1,6 @@
-#🏢 Sistema de Gestión de Proyectos Alu-Arq - Backend 💻
+# 🏢 Sistema de Gestión de Proyectos Alu-Arq - Backend 💻
 
-#📝 Descripción
+# 📝 Descripción
 Este proyecto es un sistema backend desarrollado con Spring Boot para la empresa Alu-Arq, especializada en diseño e instalación de productos de aluminio y vidrio. El sistema permite gestionar proyectos arquitectónicos, asignar recursos (empleados y materiales) y controlar los gastos asociados.
 
 📊 Gestionar proyectos arquitectónicos
@@ -11,7 +11,7 @@ Este proyecto es un sistema backend desarrollado con Spring Boot para la empresa
 
 ⚙️ Automatizar procesos empresariales
 
-#✨ Características Principales
+# ✨ Características Principales
 🏗️ Gestión completa de proyectos con fechas, estados y ubicaciones
 
 👨‍💼 Asignación de arquitectos encargados y trabajadores
@@ -24,7 +24,7 @@ Este proyecto es un sistema backend desarrollado con Spring Boot para la empresa
 
 🔐 Roles diferenciados (Administrador 👑 y Empleado 👷)
 
-#🛠️ Tecnologías Utilizadas
+# 🛠️ Tecnologías Utilizadas
 Categoría	Tecnologías
 Lenguaje	Java 17 ☕
 Framework	Spring Boot 3.x 🌱
