@@ -13,19 +13,30 @@ Este proyecto es un sistema backend desarrollado con Spring Boot para la empresa
 
 # ✨ Características Principales
 Gestión completa de proyectos con fechas, estados y ubicaciones
+
 Asignación de arquitectos encargados y trabajadores
+
 Control de materiales utilizados en cada proyecto
+
 Cálculo automático de viáticos según número de trabajadores
+
 Gestión de presupuesto de materiales
+
 Roles diferenciados (Administrador 👑 y Empleado 👷)
 
 # 🛠️ Tecnologías Utilizadas
 Categoría	Tecnologías
+
 Lenguaje	Java 17 ☕
+
 Framework	Spring Boot 3.x 🌱
+
 Base Datos	MySQL 🐬
+
 API REST	Spring MVC 🌐
+
 ORM	Hibernate/JPA 🗄️
+
 Build	Maven 🏗️
 
 # 🖥️ Frontend del Sistema de Gestión Alu-Arq
